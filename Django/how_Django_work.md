@@ -1,7 +1,7 @@
 # How Django works?
 
 ## MVT(Model,View,Template)
-![MVT](./MVT.jpeg)
+![MVT](https://github.com/SEONGHUN-95/TIL/blob/main/MVT.jpeg)
 
 
 > 장고 프레임워크의 요소들을 알아보자.
