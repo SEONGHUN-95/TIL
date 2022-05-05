@@ -1,7 +1,9 @@
 # How Django works?
 > 장고 프레임워크의 요소들을 알아보자.
 <br>
-## URL - View 작동 방식.
+
+## URL - View 작동 방식
+
 1. 브라우저에서 서버로 url 페이지 요청.
 2. urls.py 파일에서 URL 매핑 확인하여, views.py 파일의 함수 호출.
 3. 함수 작동 결과를 브라우저에 반영.
